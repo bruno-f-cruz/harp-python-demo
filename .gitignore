@@ -1,0 +1,25 @@
+# dotnet tool install (scripts/install-harp-toolkit.ps1)
+.nuget/
+.config/
+artifact.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Bonsai
+Packages
+*.exe
+*.exe.settings
+.bonsai/Settings/
