@@ -5,7 +5,7 @@ from harp.device import core
 import device as beh
 from time import sleep
 
-COM_PORT = "COM3"
+COM_PORT = "COM11"
 
 global is_done
 is_done = False
